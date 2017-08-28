@@ -38,4 +38,7 @@
 
 ---
 
-<center> @ [승빈이네 공작소](http://sbsoft.kr/home/) || [View on Github](https://github.com/denlyou/AIL) </center>
+<center> @
+  <a target="_blank" href="http://sbsoft.kr/home/">승빈이네 공작소</a> ||
+  <a target="_blank" href="https://github.com/denlyou/AIL">View on Github</a>
+</center>
