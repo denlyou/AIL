@@ -7,6 +7,7 @@
 ## PHP
 
 - Laravel (라라벨 프레임워크 공부)
+> [라라벨설치(Linux)](./php_laravel_installation.md) ,
 > [마이그레이션](./php_laravel_migrations.md) ,
 
 
@@ -33,7 +34,7 @@
 ## C \# (C Sharp)
 
 - Unity Script (유니티용 스크립트 공부)
-> [로그,키/마우스감지](./csharp_unity.md) ,
+> [로그 , 키/마우스감지](./csharp_unity.md) ,
 
 ---
 
