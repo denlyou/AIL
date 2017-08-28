@@ -4,7 +4,7 @@
 
 - apache 대신에 nginx 로 구축
 
-> = https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-centos-7
+> [참고 : DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-centos-7)
 
 ### nginx 설치
 
@@ -155,9 +155,6 @@ server {
 }
 ```
 
--
-
-
 #### 확인용 phpinfo() 호출 파일
 
 - `sudo vim /usr/share/nginx/html/info.php`
@@ -185,4 +182,6 @@ sudo chown nginx:nginx -R /var/lib/php/session
 ```
 
 ---
-> (라라벨 설치 링크?)
+
+> 참고
+> - [라라벨 설치](./php_laravel_installation.md)
