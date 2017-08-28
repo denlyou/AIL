@@ -38,4 +38,4 @@
 
 ---
 
-> 노세노세 젊어서 놀아 늙어지며는 못노나니 ~
+<center> @ [승빈이네 공작소](http://sbsoft.kr/home/) || [View on Github](https://github.com/denlyou/AIL) </center>
