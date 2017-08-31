@@ -36,9 +36,14 @@
 - Unity Script (유니티용 스크립트 공부)
 > [로그 , 키/마우스감지](./csharp_unity.md) ,
 
+## GIT
+
+- Github (깃허브)
+> [Markdown](./git_hub_markdown.md) ,
+
 ---
 
-<center> @
+<p style="text-align: center;">
   <a target="_blank" href="http://sbsoft.kr/home/">승빈이네 공작소</a> ||
   <a target="_blank" href="https://github.com/denlyou/AIL">View on Github</a>
-</center>
+</p>
