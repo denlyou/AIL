@@ -17,6 +17,12 @@
 > [웹FCM](./firebase_web_fcm.md) ,
 
 
+## Databases
+
+- MariaDB(MySQL호환)
+> [사용자추가, 트랜젝션](./mariadb_sql.md) ,
+
+
 ## Server
 
 - Server Setting (서버 구축)
@@ -43,7 +49,7 @@
 
 ---
 
-<p style="text-align: center;">
+<p>
   <a target="_blank" href="http://sbsoft.kr/home/">승빈이네 공작소</a> ||
   <a target="_blank" href="https://github.com/denlyou/AIL">View on Github</a>
 </p>
