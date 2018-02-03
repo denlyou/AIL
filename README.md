@@ -4,11 +4,22 @@
 
 ---
 
+## Android
+
+- 자주 사용하는 것들?
+> [Fragment, RecyclerView(Basic)](./android_many.md),
+
 ## PHP
 
 - Laravel (라라벨 프레임워크 공부)
 > [라라벨설치(Linux)](./php_laravel_installation.md) ,
 > [마이그레이션](./php_laravel_migrations.md) ,
+
+
+## JavaScript
+
+- 문법
+> [ECMAScript2015 (ES6)](./js_ecma6.md),
 
 
 ## Firebase
